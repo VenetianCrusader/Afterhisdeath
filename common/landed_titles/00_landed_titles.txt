@@ -6208,3 +6208,177 @@ d_gyor = {
 		}
 	}
 }
+########## GAUL ##########
+e_gaul = {
+	color = { 138 210 93 }
+	color2 = { 255 255 255 }
+
+k_armorica = {
+	color = { 84 255 85 }
+	color2 = { 255 255 255 }
+	
+d_osismia = {
+	color = { 161 242 80 }
+	color2 = { 255 255 255 }
+	
+	c_osismia = {
+	color = { 77 197 80 }
+	color2 = { 255 255 255 }
+
+	b_osismetum = {
+	color = { 77 197 80 }
+	color2 = { 255 255 255 }
+	province = 2162
+	}
+	b_tregoritum = {
+	color = { 77 197 80 }
+	color2 = { 255 255 255 }
+	province = 2161
+	}
+	b_goelloria = {
+	color = { 77 197 80 }
+	color2 = { 255 255 255 }
+	province = 2159
+	}
+	}
+	c_vorganium = {
+	color = { 18 156 80 }
+	color2 = { 255 255 255 }
+	
+	b_vorganium = {
+	color = { 18 156 80 }
+	color2 = { 255 255 255 }
+	province = 2157
+	}
+	b_leontia = {
+	color = { 18 156 80 }
+	color2 = { 255 255 255 }
+	province = 2158
+	}
+	b_agritore = {
+	color = { 18 156 80 }
+	color2 = { 255 255 255 }
+	province = 2156
+	}
+	}
+	c_venetia = {
+	color = { 35 144 109 }
+	color2 = { 255 255 255 }
+	
+	b_sulis
+	color = { 35 144 109 }
+	color2 = { 255 255 255 }
+	province = 2160
+	}
+	b_pollicum
+	color = { 35 144 109 }
+	color2 = { 255 255 255 }
+	province = 2155
+	}
+	}
+	}
+d_curiosolita = {
+	color = { 11 177 85 }
+	color2 = { 255 255 255 }
+	
+	c_coriosolitum = {
+	color = { 51 129 85 }
+	color2 = { 255 255 255 }
+	
+	b_coriosolitum = {
+	color = { 51 129 85 }
+	color2 = { 255 255 255 }
+	province = 2163
+	}
+	b_dariorigum = {
+	color = { 51 129 85 }
+	color2 = { 255 255 255 }
+	province = 2154
+	}
+	b_grannona
+	color = { 51 129 85 }
+	color2 = { 255 255 255 }
+	province = 2153
+	}
+	}
+	c_reginca
+	color = { 72 118 87 }
+	color2 = { 255 255 255 }
+	
+	b_reginca
+	color = { 72 118 87 }
+	color2 = { 255 255 255 }
+	province = 2164
+	}
+	b_dolus
+	color = { 72 118 87 }
+	color2 = { 255 255 255 }
+	province = 2282
+	}
+	}
+	c_condate_redonum = {
+	color = { 37 144 109 }
+	color2 = { 255 255 255 }
+		
+	b_condate_redonum = {
+	color = { 37 144 109 }
+	color2 = { 255 255 255 }
+	province = 2165
+	}
+	}
+	}
+d_namnetia = {
+	color = { 52 102 36 }
+	color2 = { 255 255 255 }
+	
+	c_namnetum
+	color = { 54 102 34 }
+	color2 = { 255 255 255 }
+	
+	b_namnetum = {
+	color = { 54 102 34 }
+	color2 = { 255 255 255 }
+	province = 2152
+	}
+	b_sipia_occidentalis = {
+	color = { 54 102 34 }
+	color2 = { 255 255 255 }
+	province = 2166
+	}
+	}
+	c_conbaristum
+	color = { 98 166 120 }
+	color2 = { 255 255 255 }
+	
+	b_conbaristum
+	color = { 98 166 120 }
+	color2 = { 255 255 255 }
+	province = 2263
+	}
+	b_sipia
+	color = { 98 166 120 }
+	color2 = { 255 255 255 }
+	province = 2262
+	}
+	b_salica
+	color = { 98 166 120 }
+	color2 = { 255 255 255 }
+	province = 2485
+	}
+	}
+	c_andecavorum
+	color = { 52 133 78 }
+	color2 = { 255 255 255 }
+	
+	b_andecacorum
+	color = { 52 133 78 }
+	color2 = { 255 255 255 }
+	province = 2267
+	}
+	b_bricca
+	color = { 52 133 78 }
+	color2 = { 255 255 255 }
+	province = 2269
+	}
+	}
+	}
