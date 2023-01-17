@@ -1,0 +1,52 @@
+# k_athens
+482 = {		#Atheniai
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+	
+3730 = {	#Thebes
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+	
+}
+3731 = {	#Megara
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+
+###d_boeotia
+3728 = {	#Levadia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+	
+}
+3727 = {	#Boudounitsa AKA Mendenitsa
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3729 = {	#Amfissa
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+
+###d_euboea
+485 = {		#Euboia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3725 = {	#Skopelos
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3726 = {	#Oreoi
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
